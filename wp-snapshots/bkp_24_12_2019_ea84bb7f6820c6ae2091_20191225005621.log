@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 25 de December de 2019 00:56
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.24
+WORDPRESS:	5.3.2
+PHP INFO:	7.1.8 | SAPI: apache2handler
+SERVER:		Apache/2.4.27 (Win32) OpenSSL/1.0.2l PHP/7.1.8 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 4MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: bkp_24_12_2019_ea84bb7f6820c6ae2091_20191225005621_database.sql
+SQL FILE SIZE: 1.74MB (1825275)
+SQL FILE TIME: 2019-12-25 00:56:59
+SQL RUNTIME: 10.21 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp2/htdocs/moustache
+ARCHIVE FILE: bkp_24_12_2019_ea84bb7f6820c6ae2091_20191225005621_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: bkp_24_12_2019_ea84bb7f6820c6ae2091_20191225005621_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => C:\xampp2\htdocs\moustache\wp-snapshots\tmp\bkp_24_12_2019_ea84bb7f6820c6ae2091_20191225005621_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 232.94KB
+ARCHIVE RUNTIME: 0.27 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp2/htdocs/moustache/wp-snapshots/tmp/bkp_24_12_2019_ea84bb7f6820c6ae2091_20191225005621_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.74MB
+INSTALLER FILE: 60.52KB
+ARCHIVE FILE: 1.53MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 0
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 13.06 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => bkp_24_12_2019 25 de December de 2019 00:57
+
